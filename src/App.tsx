@@ -1,8 +1,5 @@
 import { useState } from 'react';
 
-// styles
-import 'bootstrap/dist/css/bootstrap.css' // run `npm install bootstrap` to install and then import it
-
 // components
 import Alert from './components/Alert';
 import Button from './components/Button';
